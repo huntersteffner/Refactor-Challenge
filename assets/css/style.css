@@ -52,11 +52,12 @@ p {
 }
 
 .hero {
-  height: 80vh;
+  height: 800px;
   width: 100%;
-  /* padding-bottom: 100vh; */
-  margin-bottom: 60vh;
-  /* position: relative; */
+  margin-bottom: 25px;
+  background-image: url("../images/digital-marketing-meeting.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .hero img {
